@@ -4,7 +4,8 @@
 ### Requirements:
 * Python3 
 * Node.JS
-* Pipenv 
+* pip or pip3
+* venv
 * npm 
 
 ## Frameworks and packages used
